@@ -3,7 +3,7 @@
 #	$1:type 	--- app\weixin
 #	$2 version	--- git_commit_number	
 #	$3 NodeList	--- tomcat NodeList
-
+#脚本用于jenkins热部署多台tomcat服务器使用
 
 source /etc/profile
 
